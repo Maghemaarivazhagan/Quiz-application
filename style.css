@@ -31,6 +31,7 @@ body{
 
 }
 .quiz h2{
+    margin-top: 5px;
    font-size:18px ;
    color:rgb(202, 107, 63);
    font-weight: 600; 
